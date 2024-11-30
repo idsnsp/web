@@ -1,4 +1,4 @@
-const API_URL = 'https://raw.githubusercontent.com/bibhuticoder/nepali-news-api/main/__daily_news/2024_11_27.json';
+const API_URL = 'https://raw.githubusercontent.com/bibhuticoder/nepali-news-api/main/__daily_news/2024_11_29.json';
 
 const newsGrid = document.getElementById('news-grid');
 const trendingTopics = document.getElementById('trending-topics');
